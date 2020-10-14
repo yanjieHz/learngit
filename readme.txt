@@ -6,3 +6,4 @@ This is a remote test.
 This is a branch test instance.
 Conflict test.
 fenzhi strategy.
+test stash.
