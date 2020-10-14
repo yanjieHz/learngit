@@ -5,3 +5,4 @@ Git tracks changes of files.
 This is a branch test instance.
 Conflict test.
 fenzhi strategy.
+test stash.
