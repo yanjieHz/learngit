@@ -8,4 +8,3 @@ git tracks changes of files.
 remote test.
 exercise branch.
 ok!
-ok2!
